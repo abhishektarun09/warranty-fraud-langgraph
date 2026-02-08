@@ -14,6 +14,9 @@ An intelligent warranty claims adjudication system that leverages LangGraph and 
   - `AutoDrive_Warranty_Policy_2025.pdf` - Policy manual for validation rules
 - `requirements.txt` -  Python package dependencies
 
+## Project Architecture
+![Screenshot2](resources/output.png)
+
 ## System Requirements
 
 - Python 3.12+ (project was developed with modern Python 3.12.10)
