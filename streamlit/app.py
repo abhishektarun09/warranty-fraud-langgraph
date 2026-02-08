@@ -110,6 +110,18 @@ st.markdown(
             Upload claims, analyze risk, review decisions, and export results.
         </div>
     </div>
+    
+    <style>
+    button {
+        color: #000000 !important;
+        background-color: #f0f2f6 !important;
+        border: 1px solid #ccc !important;
+    }
+
+    button:hover {
+        background-color: #e0e2e6 !important;
+    }
+    </style>
     """,
     unsafe_allow_html=True
 )
